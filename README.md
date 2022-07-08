@@ -15,7 +15,7 @@
 
 ![alt text](https://new.uniquejapan.com/wp-content/uploads/2011/10/ujka015_kuniyoshi-22-saya-blade-e1319830492394.jpg)
 
-> This is a block-quote []()=> for adding link ![alt text]()=> for image
+> This is a block-quote []()=> for adding link ! [alt text]()=> for image
 
 - Never
   - Gonna
