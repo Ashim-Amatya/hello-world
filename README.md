@@ -1,6 +1,6 @@
 # Demo with Heading1
 ## Demo with Heading 2
-######Demo with Heading 6
+###### Demo with Heading 6
 
 "my first repo"
 
