@@ -18,7 +18,7 @@
 - Never
   - Gonna
     - Give
-      -You
+      - You
         - Up
 - Gonna
 - Give
