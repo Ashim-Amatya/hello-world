@@ -9,4 +9,4 @@
   const date = new Date();
 ```
 
-[for link]("gmail.com")
+[9anime]("https://9anime.to/home")
