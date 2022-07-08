@@ -34,3 +34,6 @@
 |  Heading  | Header | Head |
 |  ---  |  ---  |  ---  |
 | What's | That | !!! |
+| Naruto | Bleach | One Piece |
+
+This is *Italic* **Bold** ~~Crossed~~
