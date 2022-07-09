@@ -9,6 +9,13 @@
 ```
 ```Javascript
   const date = new Date();
+  //call() invokes function immediately and sends args one by one
+  const obj = fname.call(obj1,"args1","args2")
+  //apply() invokes function immediately and sends array of args
+  const obj = fname.call(obje2,['args1','args2']) 
+  //bind() returns a function 
+  const obj = fname.bind(obj,'args')
+  const obj();
 ```
 
 [9anime](https://9anime.to/home)
